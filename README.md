@@ -3,14 +3,14 @@
 ## Setting up
 
   - Install required libraries required:
-	`sudo apt-get update`
-	`sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev`
+	- `sudo apt-get update`
+	- `sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev`
 	
   - Compile the program:
-    `g++ main.cpp -o main -lglut -lGLU -lGL`
+  	- `g++ main.cpp -o main -lglut -lGLU -lGL`
     
   - Run application:
-    `./main`
+  	- `./main`
     
 ### Navigation
   - Click on an "Example" to execute.
@@ -19,18 +19,25 @@
 
 ## Screenshots
 
+### Navigation Screen
 ![Navigation Screen](screenshots/main_1.png)
 
+### Finding a cycle
 ![Finding a cycle](screenshots/main_5.png)
 
+### Safe State (No cycle found)
 ![Safe State (No cycle found)](screenshots/main_3.png)
 
+### Cycle found
 ![Cycle found](screenshots/main_6.png)
 
+### Bankers Algorithm
 ![Bankers Algorithm](screenshots/main_22.png)
 
+### Process termination
 ![Process termination](screenshots/main_8.png)
 
+### System Recovered
 ![System Recovered](screenshots/main_9.png)
 
 
