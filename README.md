@@ -15,7 +15,7 @@
 ### Navigation
   - Click on an **"Example"** to execute.
   - Press ***Space*** to proceed with each step 
-  	- *(**FINDING A CIRCLE** -> **BANKER's ALGORITHM** -> **PROCESS TERMINATION**)*
+  	- *( **FINDING A CIRCLE** -> **BANKER's ALGORITHM** -> **PROCESS TERMINATION** )*
   - Press ***Esc*** to get back to the navigation screen.
 
 ## Screenshots
