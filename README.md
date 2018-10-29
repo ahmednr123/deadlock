@@ -41,6 +41,5 @@
 ### System Recovered
 ![System Recovered](screenshots/main_9.png)
 
->
-> The code was written in 3 days, cut me some slack!
->
+
+> The code was written in 3 days, so cut me some slack!
